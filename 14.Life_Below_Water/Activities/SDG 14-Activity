@@ -1,0 +1,54 @@
+Group Activity / Kahoot / TSURU’ Challenge: SDG #14 Life Below Water
+
+In this SDG, we will focus on indicator 14.1.1, which refers to preventing and significantly reducing marine pollution of all kinds, particularly from land-based activities, including marine debris and nutrient pollution.
+
+MARINE ANIMALS IN DANGER OF EXTINCTION IN COSTA RICA (Animals for the TSURU’ challenge)
+
+Sea turtle
+Hammerhead shark
+Silky shark
+Manatee
+GROUP ACTIVITY
+
+Topic: Let's Save Endangered Marine Animals Through Art and Recycling
+
+Materials for the activity:
+Cardboard, recycled paper, paints, tape, glue, bottles, caps, and tetra pack boxes.
+
+Procedure:
+
+From the following list, you should choose a marine animal (Sea turtle, Hammerhead shark, Silky shark, or Manatee). Then, you will draw its silhouette on the cardboard and, along with the teacher, assemble the structure (don’t forget to name your creation). Afterward, cover it with paper and glue to prepare the surface for painting. At the end of the activity, there will be an exhibition of each creation.
+
+TSURU’ CHALLENGE
+
+Name: Tsuru Barrier CR’
+
+Function:
+
+Its main function is to collect plastic from rivers. The structure has a buoy on the back that contains 4 sensors with the following features:
+
+Arduino: A free hardware electronic board that uses a programmable microcontroller with a series of pins that allow connections between the controller and various sensors, acting as the "brain" of a circuit or machinery.
+GPS Sensor: A GPS receiver, like the ones in phones, receives a signal that identifies satellites and knows their exact orbit. This information is then used to calculate our current position.
+Light Sensor: A light sensor is a device that transforms light energy into electromagnetic radiation or photons and can perceive variations in light in a specific place. This illumination can be detected by the human eye.
+pH Sensor: This sensor measures the pH of a liquid and provides an analog output proportional to the pH measurement of the substance.
+Turbidity Sensor (Arduino): Detects water quality by measuring turbidity levels.
+Procedure:
+
+Tsuru Barrier CR’ is a joint project between students from the Greater Metropolitan Area (GAM) and rural areas. In other words, Group 1 (GAM) and Group 2 (rural areas).
+
+Group 1: Will be in charge of building the buoy and implementing the sensors.
+Group 2: While Group 1 works on the buoy, you will be responsible for making the net from PET thread.
+Group 1 and Group 2: Joint structure and task unification.
+
+During the testing phase, rural students will be responsible for implementing the prototype, i.e., “Tsuru Barrier CR.” Meanwhile, the GAM students will be responsible for monitoring and receiving data.
+
+The following questions are provided:
+
+What material is the buoy made of?
+It is mainly made of tetra pack sheets.
+How is PET thread made?
+Made from recycled bottles.
+What is expected from the project?
+Low-cost implementation, environmental compensation, impact on the carbon footprint, circular economy, inclusion, innovation, and awareness in classrooms and the educational sector.
+The collected plastic will be treated at a recycling plant and later turned into hydroponic towers.
+"Rivers are the arteries that carry plastic to the sea."
